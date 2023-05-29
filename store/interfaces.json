@@ -1,0 +1,8 @@
+{
+  "custom-html-content": {
+    "component": "CustomHtmlContent"
+  },
+  "server-dateTime": {
+    "component": "serverDateTime"
+  }
+}
