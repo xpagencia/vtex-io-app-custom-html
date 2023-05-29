@@ -1,7 +1,7 @@
 {
   "vendor": "x5music",
   "name": "custom-html",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "title": "Conteúdo HTML Personalizado",
   "description": "O APP serve para incluir um código HTML qualquer dentro de uma área específica em qualquer tela de uma loja VTEX.IO.",
   "builders": {
